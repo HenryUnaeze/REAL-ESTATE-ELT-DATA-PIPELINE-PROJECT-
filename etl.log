@@ -1,0 +1,623 @@
+2025-08-21 17:06:51,839 INFO ETL job started
+2025-08-21 17:06:51,840 INFO Extracting data from API...
+2025-08-21 17:06:51,840 WARNING API took longer than expected
+2025-08-21 17:06:51,840 ERROR Failed to load into database
+2025-08-21 17:06:51,840 INFO ETL job finished
+2025-08-21 17:06:55,156 INFO ETL job started
+2025-08-21 17:06:55,157 INFO Extracting data from API...
+2025-08-21 17:06:55,157 WARNING API took longer than expected
+2025-08-21 17:06:55,157 ERROR Failed to load into database
+2025-08-21 17:06:55,158 INFO ETL job finished
+2025-08-21 17:24:24,821 INFO ETL job started
+2025-08-21 17:24:24,823 INFO Extracting data from API...
+2025-08-21 17:24:24,825 WARNING API took longer than expected
+2025-08-21 17:24:24,825 ERROR Failed to load into database
+2025-08-21 17:24:24,825 INFO ETL job finished
+2025-08-21 18:58:53,098 INFO ETL job started
+2025-08-21 18:58:53,102 INFO Extracting data from API...
+2025-08-21 18:58:53,102 WARNING API took longer than expected
+2025-08-21 18:58:53,102 ERROR Failed to load into database
+2025-08-21 18:58:53,106 INFO ETL job finished
+2025-08-21 19:10:46,384 INFO ETL job started
+2025-08-21 19:10:46,385 INFO Extracting data from API...
+2025-08-21 19:10:46,385 WARNING API took longer than expected
+2025-08-21 19:10:46,385 ERROR Failed to load into database
+2025-08-21 19:10:46,385 INFO ETL job finished
+2025-08-21 19:10:48,000 INFO ETL job started
+2025-08-21 19:10:48,001 INFO Extracting data from API...
+2025-08-21 19:10:48,001 WARNING API took longer than expected
+2025-08-21 19:10:48,001 ERROR Failed to load into database
+2025-08-21 19:10:48,001 INFO ETL job finished
+2025-08-21 21:26:58,779 INFO ETL job started
+2025-08-21 21:26:58,782 INFO Extracting data from API...
+2025-08-21 21:26:58,782 WARNING API took longer than expected
+2025-08-21 21:26:58,783 ERROR Failed to load into database
+2025-08-21 21:26:58,784 INFO ETL job finished
+2025-08-21 21:27:02,003 INFO ETL job started
+2025-08-21 21:27:02,004 INFO Extracting data from API...
+2025-08-21 21:27:02,005 WARNING API took longer than expected
+2025-08-21 21:27:02,007 ERROR Failed to load into database
+2025-08-21 21:27:02,007 INFO ETL job finished
+2025-08-21 21:49:38,427 INFO ETL job started
+2025-08-21 21:49:38,429 INFO Extracting data from API...
+2025-08-21 21:49:38,429 WARNING API took longer than expected
+2025-08-21 21:49:38,429 ERROR Failed to load into database
+2025-08-21 21:49:38,433 INFO ETL job finished
+2025-08-21 21:49:41,604 INFO ETL job started
+2025-08-21 21:49:41,606 INFO Extracting data from API...
+2025-08-21 21:49:41,606 WARNING API took longer than expected
+2025-08-21 21:49:41,606 ERROR Failed to load into database
+2025-08-21 21:49:41,607 INFO ETL job finished
+2025-08-21 21:50:59,875 INFO ETL job started
+2025-08-21 21:50:59,876 INFO Extracting data from API...
+2025-08-21 21:50:59,876 WARNING API took longer than expected
+2025-08-21 21:50:59,877 ERROR Failed to load into database
+2025-08-21 21:50:59,878 INFO ETL job finished
+2025-08-21 21:54:04,359 INFO ETL job started
+2025-08-21 21:54:04,359 INFO Extracting data from API...
+2025-08-21 21:54:04,359 WARNING API took longer than expected
+2025-08-21 21:54:04,359 ERROR Failed to load into database
+2025-08-21 21:54:04,359 INFO ETL job finished
+2025-08-21 21:54:05,669 INFO ETL job started
+2025-08-21 21:54:05,669 INFO Extracting data from API...
+2025-08-21 21:54:05,669 WARNING API took longer than expected
+2025-08-21 21:54:05,670 ERROR Failed to load into database
+2025-08-21 21:54:05,670 INFO ETL job finished
+2025-08-21 22:08:07,788 INFO ETL job started
+2025-08-21 22:08:07,796 INFO Extracting data from API...
+2025-08-21 22:08:07,796 WARNING API took longer than expected
+2025-08-21 22:08:07,796 ERROR Failed to load into database
+2025-08-21 22:08:07,799 INFO ETL job finished
+2025-08-21 22:09:42,934 INFO ETL job started
+2025-08-21 22:09:42,934 INFO Extracting data from API...
+2025-08-21 22:09:42,942 WARNING API took longer than expected
+2025-08-21 22:09:42,942 ERROR Failed to load into database
+2025-08-21 22:09:42,942 INFO ETL job finished
+2025-08-21 22:09:44,315 INFO ETL job started
+2025-08-21 22:09:44,315 INFO Extracting data from API...
+2025-08-21 22:09:44,315 WARNING API took longer than expected
+2025-08-21 22:09:44,315 ERROR Failed to load into database
+2025-08-21 22:09:44,315 INFO ETL job finished
+2025-08-21 22:12:21,320 INFO ETL job started
+2025-08-21 22:12:21,320 INFO Extracting data from API...
+2025-08-21 22:12:21,320 WARNING API took longer than expected
+2025-08-21 22:12:21,320 ERROR Failed to load into database
+2025-08-21 22:12:21,320 INFO ETL job finished
+2025-08-21 22:14:30,027 INFO ETL job started
+2025-08-21 22:14:30,028 INFO Extracting data from API...
+2025-08-21 22:14:30,028 WARNING API took longer than expected
+2025-08-21 22:14:30,030 ERROR Failed to load into database
+2025-08-21 22:14:30,030 INFO ETL job finished
+2025-08-21 22:14:33,787 INFO ETL job started
+2025-08-21 22:14:33,787 INFO Extracting data from API...
+2025-08-21 22:14:33,787 WARNING API took longer than expected
+2025-08-21 22:14:33,787 ERROR Failed to load into database
+2025-08-21 22:14:33,790 INFO ETL job finished
+2025-08-21 22:33:57,101 INFO ETL job started
+2025-08-21 22:33:57,106 INFO Extracting data from API...
+2025-08-21 22:33:57,106 WARNING API took longer than expected
+2025-08-21 22:33:57,106 ERROR Failed to load into database
+2025-08-21 22:33:57,109 INFO ETL job finished
+2025-08-21 22:33:58,516 INFO ETL job started
+2025-08-21 22:33:58,516 INFO Extracting data from API...
+2025-08-21 22:33:58,516 WARNING API took longer than expected
+2025-08-21 22:33:58,516 ERROR Failed to load into database
+2025-08-21 22:33:58,516 INFO ETL job finished
+2025-08-21 23:27:38,343 INFO ETL job started
+2025-08-21 23:27:38,358 INFO Extracting data from API...
+2025-08-21 23:27:38,360 WARNING API took longer than expected
+2025-08-21 23:27:38,360 ERROR Failed to load into database
+2025-08-21 23:27:38,361 INFO ETL job finished
+2025-08-21 23:27:40,058 INFO ETL job started
+2025-08-21 23:27:40,058 INFO Extracting data from API...
+2025-08-21 23:27:40,058 WARNING API took longer than expected
+2025-08-21 23:27:40,058 ERROR Failed to load into database
+2025-08-21 23:27:40,058 INFO ETL job finished
+2025-08-21 23:45:48,982 INFO ETL job started
+2025-08-21 23:45:48,987 INFO Extracting data from API...
+2025-08-21 23:45:48,989 WARNING API took longer than expected
+2025-08-21 23:45:48,991 ERROR Failed to load into database
+2025-08-21 23:45:48,993 INFO ETL job finished
+2025-08-21 23:48:09,050 INFO ETL job started
+2025-08-21 23:48:09,051 INFO Extracting data from API...
+2025-08-21 23:48:09,052 WARNING API took longer than expected
+2025-08-21 23:48:09,053 ERROR Failed to load into database
+2025-08-21 23:48:09,053 INFO ETL job finished
+2025-08-21 23:49:36,857 INFO ETL job started
+2025-08-21 23:49:36,857 INFO Extracting data from API...
+2025-08-21 23:49:36,858 WARNING API took longer than expected
+2025-08-21 23:49:36,858 ERROR Failed to load into database
+2025-08-21 23:49:36,858 INFO ETL job finished
+2025-08-21 23:51:30,689 INFO ETL job started
+2025-08-21 23:51:30,690 INFO Extracting data from API...
+2025-08-21 23:51:30,691 WARNING API took longer than expected
+2025-08-21 23:51:30,692 ERROR Failed to load into database
+2025-08-21 23:51:30,693 INFO ETL job finished
+2025-08-21 23:51:32,478 INFO ETL job started
+2025-08-21 23:51:32,480 INFO Extracting data from API...
+2025-08-21 23:51:32,480 WARNING API took longer than expected
+2025-08-21 23:51:32,481 ERROR Failed to load into database
+2025-08-21 23:51:32,481 INFO ETL job finished
+2025-08-21 23:52:34,345 INFO ETL job started
+2025-08-21 23:52:34,346 INFO Extracting data from API...
+2025-08-21 23:52:34,346 WARNING API took longer than expected
+2025-08-21 23:52:34,346 ERROR Failed to load into database
+2025-08-21 23:52:34,347 INFO ETL job finished
+2025-08-21 23:52:36,081 INFO ETL job started
+2025-08-21 23:52:36,082 INFO Extracting data from API...
+2025-08-21 23:52:36,082 WARNING API took longer than expected
+2025-08-21 23:52:36,083 ERROR Failed to load into database
+2025-08-21 23:52:36,083 INFO ETL job finished
+2025-08-21 23:56:50,328 INFO ETL job started
+2025-08-21 23:56:50,328 INFO Extracting data from API...
+2025-08-21 23:56:50,328 WARNING API took longer than expected
+2025-08-21 23:56:50,328 ERROR Failed to load into database
+2025-08-21 23:56:50,332 INFO ETL job finished
+2025-08-21 23:58:10,039 INFO ETL job started
+2025-08-21 23:58:10,039 INFO Extracting data from API...
+2025-08-21 23:58:10,040 WARNING API took longer than expected
+2025-08-21 23:58:10,040 ERROR Failed to load into database
+2025-08-21 23:58:10,040 INFO ETL job finished
+2025-08-21 23:58:11,439 INFO ETL job started
+2025-08-21 23:58:11,439 INFO Extracting data from API...
+2025-08-21 23:58:11,440 WARNING API took longer than expected
+2025-08-21 23:58:11,441 ERROR Failed to load into database
+2025-08-21 23:58:11,441 INFO ETL job finished
+2025-08-22 00:00:20,464 INFO ETL job started
+2025-08-22 00:00:20,464 INFO Extracting data from API...
+2025-08-22 00:00:20,465 WARNING API took longer than expected
+2025-08-22 00:00:20,465 ERROR Failed to load into database
+2025-08-22 00:00:20,467 INFO ETL job finished
+2025-08-22 00:01:23,995 INFO ETL job started
+2025-08-22 00:01:23,995 INFO Extracting data from API...
+2025-08-22 00:01:23,996 WARNING API took longer than expected
+2025-08-22 00:01:23,996 ERROR Failed to load into database
+2025-08-22 00:01:23,997 INFO ETL job finished
+2025-08-22 00:01:25,747 INFO ETL job started
+2025-08-22 00:01:25,748 INFO Extracting data from API...
+2025-08-22 00:01:25,748 WARNING API took longer than expected
+2025-08-22 00:01:25,749 ERROR Failed to load into database
+2025-08-22 00:01:25,751 INFO ETL job finished
+2025-08-22 10:41:44,587 INFO ETL job started
+2025-08-22 10:41:44,595 INFO Extracting data from API...
+2025-08-22 10:41:44,595 WARNING API took longer than expected
+2025-08-22 10:41:44,595 ERROR Failed to load into database
+2025-08-22 10:41:44,595 INFO ETL job finished
+2025-08-22 10:48:31,205 INFO ETL job started
+2025-08-22 10:48:31,205 INFO Extracting data from API...
+2025-08-22 10:48:31,205 WARNING API took longer than expected
+2025-08-22 10:48:31,211 ERROR Failed to load into database
+2025-08-22 10:48:31,212 INFO ETL job finished
+2025-08-22 10:48:33,723 INFO ETL job started
+2025-08-22 10:48:33,725 INFO Extracting data from API...
+2025-08-22 10:48:33,727 WARNING API took longer than expected
+2025-08-22 10:48:33,727 ERROR Failed to load into database
+2025-08-22 10:48:33,735 INFO ETL job finished
+2025-08-22 10:51:24,928 INFO ETL job started
+2025-08-22 10:51:24,930 INFO Extracting data from API...
+2025-08-22 10:51:24,930 WARNING API took longer than expected
+2025-08-22 10:51:24,930 ERROR Failed to load into database
+2025-08-22 10:51:24,930 INFO ETL job finished
+2025-08-22 10:51:26,998 INFO ETL job started
+2025-08-22 10:51:26,998 INFO Extracting data from API...
+2025-08-22 10:51:26,998 WARNING API took longer than expected
+2025-08-22 10:51:27,002 ERROR Failed to load into database
+2025-08-22 10:51:27,002 INFO ETL job finished
+2025-08-22 10:56:05,147 INFO ETL job started
+2025-08-22 10:56:05,153 INFO Extracting data from API...
+2025-08-22 10:56:05,156 WARNING API took longer than expected
+2025-08-22 10:56:05,156 ERROR Failed to load into database
+2025-08-22 10:56:05,156 INFO ETL job finished
+2025-08-22 10:56:06,543 INFO ETL job started
+2025-08-22 10:56:06,543 INFO Extracting data from API...
+2025-08-22 10:56:06,546 WARNING API took longer than expected
+2025-08-22 10:56:06,546 ERROR Failed to load into database
+2025-08-22 10:56:06,546 INFO ETL job finished
+2025-08-22 10:56:07,848 INFO ETL job started
+2025-08-22 10:56:07,850 INFO Extracting data from API...
+2025-08-22 10:56:07,853 WARNING API took longer than expected
+2025-08-22 10:56:07,853 ERROR Failed to load into database
+2025-08-22 10:56:07,855 INFO ETL job finished
+2025-08-22 10:57:23,783 INFO ETL job started
+2025-08-22 10:57:23,785 INFO Extracting data from API...
+2025-08-22 10:57:23,785 WARNING API took longer than expected
+2025-08-22 10:57:23,785 ERROR Failed to load into database
+2025-08-22 10:57:23,785 INFO ETL job finished
+2025-08-22 10:57:26,007 INFO ETL job started
+2025-08-22 10:57:26,007 INFO Extracting data from API...
+2025-08-22 10:57:26,007 WARNING API took longer than expected
+2025-08-22 10:57:26,007 ERROR Failed to load into database
+2025-08-22 10:57:26,007 INFO ETL job finished
+2025-08-22 21:54:52,036 INFO ETL job started
+2025-08-22 21:54:52,038 INFO Extracting data from API...
+2025-08-22 21:54:52,038 WARNING API took longer than expected
+2025-08-22 21:54:52,039 ERROR Failed to load into database
+2025-08-22 21:54:52,040 INFO ETL job finished
+2025-08-22 21:54:53,440 INFO ETL job started
+2025-08-22 21:54:53,441 INFO Extracting data from API...
+2025-08-22 21:54:53,442 WARNING API took longer than expected
+2025-08-22 21:54:53,442 ERROR Failed to load into database
+2025-08-22 21:54:53,443 INFO ETL job finished
+2025-08-22 23:04:51,806 INFO ETL job started
+2025-08-22 23:04:51,807 INFO Extracting data from API...
+2025-08-22 23:04:51,809 WARNING API took longer than expected
+2025-08-22 23:04:51,810 ERROR Failed to load into database
+2025-08-22 23:04:51,811 INFO ETL job finished
+2025-08-22 23:04:52,696 INFO ETL job started
+2025-08-22 23:04:52,697 INFO Extracting data from API...
+2025-08-22 23:04:52,698 WARNING API took longer than expected
+2025-08-22 23:04:52,700 ERROR Failed to load into database
+2025-08-22 23:04:52,701 INFO ETL job finished
+2025-08-22 23:17:29,404 INFO ETL job started
+2025-08-22 23:17:29,405 INFO Extracting data from API...
+2025-08-22 23:17:29,407 WARNING API took longer than expected
+2025-08-22 23:17:29,408 ERROR Failed to load into database
+2025-08-22 23:17:29,409 INFO ETL job finished
+2025-08-22 23:17:30,750 INFO ETL job started
+2025-08-22 23:17:30,751 INFO Extracting data from API...
+2025-08-22 23:17:30,752 WARNING API took longer than expected
+2025-08-22 23:17:30,752 ERROR Failed to load into database
+2025-08-22 23:17:30,754 INFO ETL job finished
+2025-08-22 23:23:29,937 INFO ETL job started
+2025-08-22 23:23:29,939 INFO Extracting data from API...
+2025-08-22 23:23:29,940 WARNING API took longer than expected
+2025-08-22 23:23:29,941 ERROR Failed to load into database
+2025-08-22 23:23:29,942 INFO ETL job finished
+2025-08-22 23:23:35,784 INFO ETL job started
+2025-08-22 23:23:35,785 INFO Extracting data from API...
+2025-08-22 23:23:35,786 WARNING API took longer than expected
+2025-08-22 23:23:35,788 ERROR Failed to load into database
+2025-08-22 23:23:35,790 INFO ETL job finished
+2025-08-23 00:09:43,447 INFO ETL start
+2025-08-23 00:09:45,440 INFO Rows: raw=150 clean=150
+2025-08-23 00:09:45,441 INFO ETL success
+2025-08-23 00:14:51,202 INFO ETL start
+2025-08-23 00:14:53,333 INFO Rows: raw=150 clean=150
+2025-08-23 00:14:53,334 INFO ETL success
+2025-08-23 01:59:07,078 INFO ETL job started
+2025-08-23 01:59:07,080 INFO Extracting data from API...
+2025-08-23 01:59:07,080 WARNING API took longer than expected
+2025-08-23 01:59:07,081 ERROR Failed to load into database
+2025-08-23 01:59:07,082 INFO ETL job finished
+2025-08-23 01:59:14,679 INFO ETL job started
+2025-08-23 01:59:14,680 INFO Extracting data from API...
+2025-08-23 01:59:14,680 WARNING API took longer than expected
+2025-08-23 01:59:14,682 ERROR Failed to load into database
+2025-08-23 01:59:14,683 INFO ETL job finished
+2025-08-23 02:08:30,942 INFO ETL job started
+2025-08-23 02:08:30,944 INFO Extracting data from API...
+2025-08-23 02:08:30,945 WARNING API took longer than expected
+2025-08-23 02:08:30,945 ERROR Failed to load into database
+2025-08-23 02:08:30,947 INFO ETL job finished
+2025-08-23 02:10:34,978 INFO ETL job started
+2025-08-23 02:10:34,978 INFO Extracting data from API...
+2025-08-23 02:10:34,979 WARNING API took longer than expected
+2025-08-23 02:10:34,979 ERROR Failed to load into database
+2025-08-23 02:10:34,979 INFO ETL job finished
+2025-08-23 02:10:39,398 INFO ETL job started
+2025-08-23 02:10:39,399 INFO Extracting data from API...
+2025-08-23 02:10:39,400 WARNING API took longer than expected
+2025-08-23 02:10:39,400 ERROR Failed to load into database
+2025-08-23 02:10:39,401 INFO ETL job finished
+2025-08-23 02:10:43,200 INFO ETL job started
+2025-08-23 02:10:43,202 INFO Extracting data from API...
+2025-08-23 02:10:43,202 WARNING API took longer than expected
+2025-08-23 02:10:43,202 ERROR Failed to load into database
+2025-08-23 02:10:43,203 INFO ETL job finished
+2025-08-23 02:12:05,877 INFO ETL job started
+2025-08-23 02:12:05,879 INFO Extracting data from API...
+2025-08-23 02:12:05,881 WARNING API took longer than expected
+2025-08-23 02:12:05,882 ERROR Failed to load into database
+2025-08-23 02:12:05,883 INFO ETL job finished
+2025-08-23 02:14:04,313 INFO ETL start
+2025-08-23 02:14:05,836 INFO Rows: raw=150 clean=150
+2025-08-23 02:14:05,837 INFO ETL success
+2025-08-23 02:16:08,795 INFO ETL job started
+2025-08-23 02:16:08,795 INFO Extracting data from API...
+2025-08-23 02:16:08,796 WARNING API took longer than expected
+2025-08-23 02:16:08,796 ERROR Failed to load into database
+2025-08-23 02:16:08,797 INFO ETL job finished
+2025-08-23 02:18:05,038 INFO ETL job started
+2025-08-23 02:18:05,039 INFO Extracting data from API...
+2025-08-23 02:18:05,040 WARNING API took longer than expected
+2025-08-23 02:18:05,041 ERROR Failed to load into database
+2025-08-23 02:18:05,042 INFO ETL job finished
+2025-08-23 02:21:30,021 INFO ETL job started
+2025-08-23 02:21:30,024 INFO Extracting data from API...
+2025-08-23 02:21:30,025 WARNING API took longer than expected
+2025-08-23 02:21:30,026 ERROR Failed to load into database
+2025-08-23 02:21:30,027 INFO ETL job finished
+2025-08-23 02:21:32,706 INFO ETL start
+2025-08-23 02:21:34,803 INFO Rows: raw=150 clean=150
+2025-08-23 02:21:34,804 INFO ETL success
+2025-08-23 02:21:41,263 INFO ETL job started
+2025-08-23 02:21:41,265 INFO Extracting data from API...
+2025-08-23 02:21:41,266 WARNING API took longer than expected
+2025-08-23 02:21:41,267 ERROR Failed to load into database
+2025-08-23 02:21:41,268 INFO ETL job finished
+2025-08-23 02:21:43,491 INFO ETL start
+2025-08-23 02:21:44,946 INFO Rows: raw=150 clean=150
+2025-08-23 02:21:44,947 INFO ETL success
+2025-08-23 02:22:51,826 INFO ETL job started
+2025-08-23 02:22:51,826 INFO Extracting data from API...
+2025-08-23 02:22:51,827 WARNING API took longer than expected
+2025-08-23 02:22:51,827 ERROR Failed to load into database
+2025-08-23 02:22:51,827 INFO ETL job finished
+2025-08-23 02:22:53,467 INFO ETL start
+2025-08-23 02:22:54,562 INFO Rows: raw=150 clean=150
+2025-08-23 02:22:54,563 INFO ETL success
+2025-08-23 02:22:57,356 INFO ETL job started
+2025-08-23 02:22:57,357 INFO Extracting data from API...
+2025-08-23 02:22:57,357 WARNING API took longer than expected
+2025-08-23 02:22:57,358 ERROR Failed to load into database
+2025-08-23 02:22:57,358 INFO ETL job finished
+2025-08-23 02:22:58,855 INFO ETL start
+2025-08-23 02:22:59,802 INFO Rows: raw=150 clean=150
+2025-08-23 02:22:59,803 INFO ETL success
+2025-08-23 02:27:02,653 INFO ETL job started
+2025-08-23 02:27:02,655 INFO Extracting data from API...
+2025-08-23 02:27:02,656 WARNING API took longer than expected
+2025-08-23 02:27:02,656 ERROR Failed to load into database
+2025-08-23 02:27:02,657 INFO ETL job finished
+2025-08-23 02:27:04,523 INFO ETL start
+2025-08-23 02:27:05,904 INFO Rows: raw=150 clean=150
+2025-08-23 02:27:05,905 INFO ETL success
+2025-08-23 02:33:53,442 INFO ETL job started
+2025-08-23 02:33:53,443 INFO Extracting data from API...
+2025-08-23 02:33:53,444 WARNING API took longer than expected
+2025-08-23 02:33:53,444 ERROR Failed to load into database
+2025-08-23 02:33:53,444 INFO ETL job finished
+2025-08-23 02:33:55,300 INFO ETL start
+2025-08-23 02:33:56,873 INFO Rows: raw=150 clean=150
+2025-08-23 02:33:56,874 INFO ETL success
+2025-08-23 02:41:08,993 INFO ETL job started
+2025-08-23 02:41:08,994 INFO Extracting data from API...
+2025-08-23 02:41:08,996 WARNING API took longer than expected
+2025-08-23 02:41:08,996 ERROR Failed to load into database
+2025-08-23 02:41:08,997 INFO ETL job finished
+2025-08-23 02:41:11,631 INFO ETL start
+2025-08-23 02:41:13,211 INFO Rows: raw=150 clean=150
+2025-08-23 02:41:13,214 INFO ETL success
+2025-08-23 21:56:22,437 INFO ETL job started
+2025-08-23 21:56:22,442 INFO Extracting data from API...
+2025-08-23 21:56:22,443 WARNING API took longer than expected
+2025-08-23 21:56:22,444 ERROR Failed to load into database
+2025-08-23 21:56:22,445 INFO ETL job finished
+2025-08-23 21:56:25,154 INFO ETL job started
+2025-08-23 21:56:25,155 INFO Extracting data from API...
+2025-08-23 21:56:25,156 WARNING API took longer than expected
+2025-08-23 21:56:25,158 ERROR Failed to load into database
+2025-08-23 21:56:25,158 INFO ETL job finished
+2025-08-23 22:04:28,602 INFO ETL start
+2025-08-23 22:04:30,009 INFO Rows: raw=150 clean=150
+2025-08-23 22:04:30,010 INFO ETL success
+2025-08-23 22:51:36,416 INFO ETL job started
+2025-08-23 22:51:36,422 INFO Extracting data from API...
+2025-08-23 22:51:36,424 WARNING API took longer than expected
+2025-08-23 22:51:36,425 ERROR Failed to load into database
+2025-08-23 22:51:36,425 INFO ETL job finished
+2025-08-23 23:13:21,048 INFO ETL start
+2025-08-23 23:13:22,594 INFO Rows: raw=150 clean=150
+2025-08-23 23:13:22,595 INFO ETL success
+2025-08-23 23:23:42,706 INFO ETL start
+2025-08-23 23:23:44,073 INFO Rows: raw=150 clean=150
+2025-08-23 23:23:44,074 INFO ETL success
+2025-08-23 23:31:30,769 INFO ETL job started
+2025-08-23 23:31:30,769 INFO Extracting data from API...
+2025-08-23 23:31:30,770 WARNING API took longer than expected
+2025-08-23 23:31:30,770 ERROR Failed to load into database
+2025-08-23 23:31:30,770 INFO ETL job finished
+2025-08-23 23:31:32,917 INFO ETL start
+2025-08-23 23:31:34,165 INFO Rows: raw=150 clean=150
+2025-08-23 23:31:34,166 INFO ETL success
+2025-08-23 23:31:46,004 INFO ETL job started
+2025-08-23 23:31:46,006 INFO Extracting data from API...
+2025-08-23 23:31:46,007 WARNING API took longer than expected
+2025-08-23 23:31:46,007 ERROR Failed to load into database
+2025-08-23 23:31:46,008 INFO ETL job finished
+2025-08-23 23:31:48,020 INFO ETL start
+2025-08-23 23:31:49,175 INFO Rows: raw=150 clean=150
+2025-08-23 23:31:49,175 INFO ETL success
+2025-08-23 23:32:03,816 INFO ETL job started
+2025-08-23 23:32:03,816 INFO Extracting data from API...
+2025-08-23 23:32:03,817 WARNING API took longer than expected
+2025-08-23 23:32:03,817 ERROR Failed to load into database
+2025-08-23 23:32:03,817 INFO ETL job finished
+2025-08-23 23:32:05,805 INFO ETL start
+2025-08-23 23:32:07,161 INFO Rows: raw=150 clean=150
+2025-08-23 23:32:07,162 INFO ETL success
+2025-08-23 23:36:27,499 INFO ETL job started
+2025-08-23 23:36:27,500 INFO Extracting data from API...
+2025-08-23 23:36:27,500 WARNING API took longer than expected
+2025-08-23 23:36:27,502 ERROR Failed to load into database
+2025-08-23 23:36:27,502 INFO ETL job finished
+2025-08-23 23:36:29,306 INFO ETL start
+2025-08-23 23:36:30,507 INFO Rows: raw=150 clean=150
+2025-08-23 23:36:30,508 INFO ETL success
+2025-08-23 23:55:57,789 INFO ETL start
+2025-08-23 23:56:00,945 INFO Rows: raw=150 clean=150
+2025-08-23 23:56:00,946 INFO ETL success
+2025-08-24 00:07:02,919 INFO ETL start
+2025-08-24 00:07:02,920 INFO Extracting data from API...
+2025-08-24 00:07:03,725 INFO Extract success: 150 rows
+2025-08-24 00:08:47,310 INFO ETL job started
+2025-08-24 00:08:47,310 INFO Extracting data from API...
+2025-08-24 00:08:47,311 WARNING API took longer than expected
+2025-08-24 00:08:47,313 ERROR Failed to load into database
+2025-08-24 00:08:47,315 INFO ETL job finished
+2025-08-24 00:09:40,435 INFO Transforming data...
+2025-08-24 00:09:40,451 INFO Transform success: 150 rows
+2025-08-24 00:09:40,665 INFO Rows: raw=150 clean=150
+2025-08-24 00:09:40,665 INFO ETL success
+2025-08-24 00:09:41,085 INFO ETL start
+2025-08-24 00:09:42,473 INFO Rows: raw=150 clean=150
+2025-08-24 00:09:42,474 INFO ETL success
+2025-08-24 00:09:43,611 INFO ETL start
+2025-08-24 00:09:43,612 INFO Extracting data from API...
+2025-08-24 00:09:44,164 INFO Extract success: 150 rows
+2025-08-24 00:10:25,002 INFO ETL start
+2025-08-24 00:10:25,003 INFO Extracting data from API...
+2025-08-24 00:10:25,635 INFO Extract success: 150 rows
+2025-08-24 00:12:13,955 INFO Transforming data...
+2025-08-24 00:12:13,977 INFO Transform success: 150 rows
+2025-08-24 00:12:14,241 INFO Rows: raw=150 clean=150
+2025-08-24 00:12:14,241 INFO ETL success
+2025-08-24 00:14:43,620 INFO Transforming data...
+2025-08-24 00:14:43,625 INFO Transform success: 150 rows
+2025-08-24 00:14:43,850 INFO Rows: raw=150 clean=150
+2025-08-24 00:14:43,850 INFO ETL success
+2025-08-24 00:14:48,459 INFO ETL start
+2025-08-24 00:14:48,460 INFO Extracting data from API...
+2025-08-24 00:14:49,228 INFO Extract success: 150 rows
+2025-08-24 00:16:16,372 INFO ETL start
+2025-08-24 00:16:16,373 INFO Extracting data from API...
+2025-08-24 00:16:17,016 INFO Extract success: 150 rows
+2025-08-24 00:17:16,691 INFO Transforming data...
+2025-08-24 00:17:16,697 INFO Transform success: 150 rows
+2025-08-24 00:17:16,925 INFO Rows: raw=150 clean=150
+2025-08-24 00:17:16,925 INFO ETL success
+2025-08-24 00:17:20,693 INFO ETL start
+2025-08-24 00:17:20,699 INFO Extracting data from API...
+2025-08-24 00:17:21,375 INFO Extract success: 150 rows
+2025-08-24 00:19:59,987 INFO Transforming data...
+2025-08-24 00:20:00,006 INFO Transform success: 150 rows
+2025-08-24 00:20:00,249 INFO Rows: raw=150 clean=150
+2025-08-24 00:20:00,249 INFO ETL success
+2025-08-24 00:23:27,873 INFO Transforming data...
+2025-08-24 00:23:27,919 INFO Transform success: 150 rows
+2025-08-24 00:23:28,186 INFO Rows: raw=150 clean=150
+2025-08-24 00:23:28,186 INFO ETL success
+2025-08-24 00:23:32,528 INFO ETL start
+2025-08-24 00:23:32,529 INFO Extracting data from API...
+2025-08-24 00:23:33,329 INFO Extract success: 150 rows
+2025-08-24 00:26:28,148 INFO Transforming data...
+2025-08-24 00:26:28,158 INFO Transform success: 150 rows
+2025-08-24 00:26:28,430 INFO Rows: raw=150 clean=150
+2025-08-24 00:26:28,431 INFO ETL success
+2025-08-24 00:27:51,020 INFO ETL start
+2025-08-24 00:27:51,022 INFO Extracting data from API...
+2025-08-24 00:27:51,738 INFO Extract success: 150 rows
+2025-08-24 00:27:51,871 INFO Extract success: 150 rows
+2025-08-24 00:28:10,023 INFO ETL start
+2025-08-24 00:28:10,023 INFO Extracting data from API...
+2025-08-24 00:28:11,235 INFO Extract success: 150 rows
+2025-08-24 00:30:30,929 INFO Transforming data...
+2025-08-24 00:30:30,948 INFO Transform success: 150 rows
+2025-08-24 00:30:31,190 INFO Rows: raw=150 clean=150
+2025-08-24 00:30:31,190 INFO ETL success
+2025-08-24 00:33:21,567 INFO Transforming data...
+2025-08-24 00:33:21,593 INFO Transform success: 150 rows
+2025-08-24 00:33:21,819 INFO Rows: raw=150 clean=150
+2025-08-24 00:33:21,820 INFO ETL success
+2025-08-24 00:36:19,491 INFO ETL job started
+2025-08-24 00:36:19,494 INFO Extracting data from API...
+2025-08-24 00:36:19,494 WARNING API took longer than expected
+2025-08-24 00:36:19,496 ERROR Failed to load into database
+2025-08-24 00:36:19,497 INFO ETL job finished
+2025-08-24 00:37:37,526 INFO ETL start
+2025-08-24 00:37:41,669 INFO Rows: raw=150 clean=150
+2025-08-24 00:37:41,670 INFO ETL success
+2025-08-24 00:47:11,188 INFO ETL start
+2025-08-24 00:47:11,190 INFO Extracting data from API...
+2025-08-24 00:47:12,036 INFO Extract success: 150 rows
+2025-08-24 00:48:35,475 INFO ETL start
+2025-08-24 00:48:35,476 INFO Extracting data from API...
+2025-08-24 00:48:36,345 INFO Extract success: 150 rows
+2025-08-24 00:49:35,175 INFO ETL start
+2025-08-24 00:49:35,176 INFO Extracting data from API...
+2025-08-24 00:49:36,052 INFO Extract success: 150 rows
+2025-08-24 00:49:53,173 INFO Transforming data...
+2025-08-24 00:49:53,193 INFO Transform success: 150 rows
+2025-08-24 00:49:53,197 ERROR ETL failed
+Traceback (most recent call last):
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: table "raw_listings" does not exist
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Henry Unaeze\OneDrive\Desktop\Data Engineering\Amdari internship\ELT Real Estate Project\real_estate.py", line 103, in main
+    df.to_sql("raw_listings", engine, if_exists="replace", index=False, method="multi")
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\core\generic.py", line 2987, in to_sql
+    return sql.to_sql(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\io\sql.py", line 695, in to_sql
+    return pandas_sql.to_sql(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\io\sql.py", line 1728, in to_sql
+    table = self.prep_table(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\io\sql.py", line 1631, in prep_table
+    table.create()
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\io\sql.py", line 831, in create
+    self.pd_sql.drop_table(self.name, self.schema)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\pandas\io\sql.py", line 1782, in drop_table
+    self.get_table(table_name, schema).drop(bind=self.connectable)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\sql\schema.py", line 976, in drop
+    bind._run_ddl_visitor(ddl.SchemaDropper, self, checkfirst=checkfirst)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 3147, in _run_ddl_visitor
+    conn._run_ddl_visitor(visitorcallable, element, **kwargs)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 2130, in _run_ddl_visitor
+    visitorcallable(self.dialect, self, **kwargs).traverse_single(element)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\sql\visitors.py", line 524, in traverse_single
+    return meth(obj, **kw)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\sql\ddl.py", line 1102, in visit_table
+    self.connection.execute(DropTable(table))
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 1306, in execute
+    return meth(self, multiparams, params, _EMPTY_EXECUTION_OPTS)
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\sql\ddl.py", line 80, in _execute_on_connection
+    return connection._execute_ddl(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 1398, in _execute_ddl
+    ret = self._execute_context(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\util\compat.py", line 208, in raise_
+    raise exception
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "C:\Users\Henry Unaeze\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) table "raw_listings" does not exist
+
+[SQL: 
+DROP TABLE raw_listings]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+
+2025-08-24 00:49:53,435 INFO Rows: raw=150 clean=150
+2025-08-24 00:49:53,437 INFO ETL success
+2025-08-24 00:49:55,186 INFO Transforming data...
+2025-08-24 00:49:55,203 INFO Transform success: 150 rows
+2025-08-24 00:49:55,456 INFO Rows: raw=150 clean=150
+2025-08-24 00:49:55,457 INFO ETL success
+2025-08-24 01:29:31,609 INFO ETL job started
+2025-08-24 01:29:31,610 INFO Extracting data from API...
+2025-08-24 01:29:31,612 WARNING API took longer than expected
+2025-08-24 01:29:31,613 ERROR Failed to load into database
+2025-08-24 01:29:31,614 INFO ETL job finished
+2025-08-24 01:31:25,755 INFO ETL start
+2025-08-24 01:31:28,592 INFO Rows: raw=150 clean=150
+2025-08-24 01:31:28,593 INFO ETL success
+2025-08-24 01:36:07,082 INFO ETL start
+2025-08-24 01:36:07,082 INFO Extracting data from API...
+2025-08-24 01:36:07,913 INFO Extract success: 150 rows
+2025-08-24 01:38:34,944 INFO Transforming data...
+2025-08-24 01:38:34,951 INFO Transform success: 150 rows
+2025-08-24 01:38:35,172 INFO Rows: raw=150 clean=150
+2025-08-24 01:38:35,172 INFO ETL success
+2025-08-24 01:53:27,705 INFO ETL start
+2025-08-24 01:53:27,705 INFO Extracting data from API...
+2025-08-24 01:53:28,653 INFO Extract success: 150 rows
+2025-08-24 01:53:30,932 INFO Transforming data...
+2025-08-24 01:53:30,948 INFO Transform success: 150 rows
+2025-08-24 01:53:31,184 INFO Rows: raw=150 clean=150
+2025-08-24 01:53:31,191 INFO ETL success
+2025-08-24 22:26:26,710 INFO ETL start
+2025-08-24 22:26:26,718 INFO Extracting data from API...
+2025-08-24 22:26:28,755 INFO Extract success: 150 rows
+2025-08-24 22:26:30,661 INFO Transforming data...
+2025-08-24 22:26:30,676 INFO Transform success: 150 rows
+2025-08-24 22:26:30,909 INFO Rows: raw=150 clean=150
+2025-08-24 22:26:30,912 INFO ETL success

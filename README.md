@@ -58,6 +58,157 @@ Our robust ETL (Extract, Transform, Load) pipeline is the core mechanism for acq
 
 Below is the Python script that orchestrates the entire ETL workflow, from API extraction to database loading.
 
+## PYTHON CODE FOR ETL ON REAL ESTATE
+
+import os
+import sys
+import logging
+import traceback
+import pandas as pd
+import requests
+import pandas as pd
+from dotenv import load_dotenv
+from sqlalchemy import create_engine
+
+# --------------------------
+# Setup
+# --------------------------
+load_dotenv()
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LOG_PATH = os.path.join(BASE_DIR, "etl.log")
+
+logging.basicConfig(
+    filename=LOG_PATH,
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s"
+)
+
+# Configs from .env
+url = "https://api.rentcast.io/v1/listings/sale?limit=150"
+api_key = os.getenv("API_KEY")
+db_name = os.getenv("DB_NAME")
+db_user = os.getenv("USER")
+db_pass = os.getenv("DB_PASSWORD")
+db_host = os.getenv("DB_HOST")
+db_port = os.getenv("PORT")
+
+headers = {
+    "Accept": "application/json",
+    "X-Api-Key": api_key
+}
+
+
+
+# --------------------------
+# ETL Functions
+# --------------------------
+def extract_data(url):
+    """Fetch JSON from API and return DataFrame."""
+    logging.info("Extracting data from API...")
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        data = response.json()
+        df = pd.json_normalize(data)
+        logging.info("Extract success: %s rows", len(df))
+        return df
+    else:
+        raise Exception(f"Error fetching data: {response.status_code} - {response.text}")
+    
+
+    df=extract_data(url)
+    df.head()
+
+##--- LOADING RAW DATA INTO THE DATA BASE
+   engine = create_engine(f'postgresql+psycopg2://{user_name}:{password}@{host}:{port}/{db_name}')
+
+try:
+    conn = psycopg2.connect(
+        host=host,
+        database=db_name,
+        user=user_name,
+        password=password,
+        port=port
+    )
+    print("Connection successful")
+except Exception as e:
+    print("Connection was unsuccessful:", e)
+
+Connection successful
+
+cur=conn.cursor()
+
+df.to_sql('raw_listings', con=engine, if_exists='replace', index=False,method="multi")
+
+conn.commit()
+
+Total_list =list(df.columns)
+
+def transform_data(df):
+    listing_data_cleaned = df[['id', 'formattedAddress', 'city',
+       'state', 'zipCode', 'county', 'latitude', 'longitude', 'propertyType',
+       'bedrooms', 'bathrooms', 'squareFootage', 'lotSize', 'yearBuilt',
+       'status', 'price', 'listingType', 'listedDate', 'removedDate',
+       'createdDate', 'lastSeenDate', 'daysOnMarket', 'mlsName', 'mlsNumber',
+       'listingAgent.name', 'listingAgent.phone', 'listingAgent.email',
+       'listingAgent.website', 'listingOffice.name', 'listingOffice.phone',
+       'listingOffice.email', 'listingOffice.website']].copy()
+    listing_data_cleaned.rename(columns={
+        'formattedAddress': 'full_address','zipCode': 'postal_code'}, inplace=True
+        )
+    listing_data_cleaned.columns= (
+        listing_data_cleaned.columns
+        .str.strip()
+        .str.replace(r'([A-Z])', r'_\1', regex=True)
+        .str.replace(" ", "_")
+        .str.replace(r'[^0-9a-zA-Z_]', r'_', regex=True)
+        .str.lower()
+        .str.replace('__', '_')
+        .str.strip('_')
+        )
+    return listing_data_cleaned
+
+listing_data_cleaned = transform_data(df)
+
+
+## TRANSFORMED DATA TO BE LOADED TO THE DATABASE
+
+engine = create_engine(f"postgresql+psycopg2://{user_name}:{password}@{host}:{port}/{db_name}")
+
+listing_data_cleaned.to_sql('transformed_listings', con=engine, if_exists='replace', index=False, method="multi")
+
+cur=conn.cursor()
+conn.commit()
+
+
+# --------------------------
+# Main ETL Runner
+# --------------------------
+def main() -> int:
+    logging.info("ETL start")
+    try:
+        df = extract_data(url)
+        df.to_sql("raw_listings", engine, if_exists="replace", index=False, method="multi")
+
+        df_clean = transform_data(df)
+        df_clean.to_sql("transformed_listings", engine, if_exists="replace", index=False, method="multi")
+
+        logging.info("Rows: raw=%s clean=%s", len(df), len(df_clean))
+        logging.info("ETL success")
+        return 0
+    except Exception:
+        logging.error("ETL failed\n%s", traceback.format_exc())
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
+
+
+conn.close()
+engine.dispose()
+
+
 
 
 

@@ -44,4 +44,7 @@ Implement robust cleaning and transformation procedures to ensure data accuracy,
 Utilize a Python-based solution to efficiently fetch and retrieve property records from the Real Estate API, minimizing delays.
 ## Optimized Database Loading
 Design an optimized process for efficiently inserting transformed data into the PostgreSQL database, ensuring data integrity.
+# Project Scope 
+![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Project%20Scope.png)
+
 

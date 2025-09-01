@@ -58,7 +58,7 @@ Our robust ETL (Extract, Transform, Load) pipeline is the core mechanism for acq
 
 Below is the Python script that orchestrates the entire ETL workflow, from API extraction to database loading.
 
-## PYTHON CODE FOR ETL ON REAL ESTATE
+`  ## PYTHON CODE FOR ETL ON REAL ESTATE
 
 import os
 import sys
@@ -202,11 +202,13 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
-
-
+    sys.exit(main()) 
 conn.close()
 engine.dispose()
+    ` 
+
+
+
 
 
 

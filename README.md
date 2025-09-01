@@ -32,5 +32,16 @@ This project is critical for Zipco Real Estate to overcome current data challeng
 ### Enhanced Decision-Making
 Empowers management with accurate insights and analytics, enabling more strategic decisions and effective navigation of the real estate market.
 
+# Strategic Project Objectives
 
+This project focuses on four strategic objectives, each vital for enhancing data efficiency and reliability at Zico Real Estate, laying the groundwork for a more robust and data-driven operation.
+
+## Automated ETL Pipeline
+Develop a scalable, automated ETL pipeline with built-in logging and monitoring for consistent data flow and performance tracking.
+## Data Cleaning & Transformation
+Implement robust cleaning and transformation procedures to ensure data accuracy, consistency, and readiness for analysis and reporting.
+## Efficient Data Extraction
+Utilize a Python-based solution to efficiently fetch and retrieve property records from the Real Estate API, minimizing delays.
+## Optimized Database Loading
+Design an optimized process for efficiently inserting transformed data into the PostgreSQL database, ensuring data integrity.
 

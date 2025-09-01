@@ -223,6 +223,7 @@ Comprehensive error handling and transaction management, including commit and ro
 # Optimized Data Model for Analytics
 Following successful data loading, our focus shifts to structuring the transformed data for optimal query performance, enabling rapid insights and powerful analytical capabilities for Zico Real Estate.
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Primary%20and%20Secondary.png)
+![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Real_Estate%20Data%20Modellin%20g-Page-1.drawio.png)
 
 
 

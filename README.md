@@ -48,6 +48,9 @@ Design an optimized process for efficiently inserting transformed data into the 
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Project%20Scope.png)
 # Analytical Insights
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Analytics%20Insight%20.png)
+# Pipeline Architecture 
+![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Data%20Architecture.png)
+
 
 
 

@@ -51,6 +51,12 @@ Design an optimized process for efficiently inserting transformed data into the 
 # Pipeline Architecture 
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Data%20Architecture.png)
 
+# Data Extraction 
+
+## Executing the Data Pipeline
+Our robust ETL (Extract, Transform, Load) pipeline is the core mechanism for acquiring, processing, and integrating real estate data. Built with Python, it ensures data is consistently updated, cleaned, and made available for analysis within the PostgreSQL database.
+
+Below is the Python script that orchestrates the entire ETL workflow, from API extraction to database loading.
 
 
 

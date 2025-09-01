@@ -47,7 +47,7 @@ Design an optimized process for efficiently inserting transformed data into the 
 # Project Scope 
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Project%20Scope.png)
 # Analytical Insights
-![alt text] (https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Analytics%20Insight%20.png)
+![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Analytics%20Insight%20.png)
 
 
 

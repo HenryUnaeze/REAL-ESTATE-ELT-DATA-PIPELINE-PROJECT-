@@ -220,6 +220,9 @@ Comprehensive error handling and transaction management, including commit and ro
 
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Data%20Loading%20in%20Postgres.png)
 
+# Optimized Data Model for Analytics
+Following successful data loading, our focus shifts to structuring the transformed data for optimal query performance, enabling rapid insights and powerful analytical capabilities for Zico Real Estate.
+
 
 
 

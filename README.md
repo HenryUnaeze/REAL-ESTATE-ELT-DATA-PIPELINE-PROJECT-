@@ -217,6 +217,7 @@ The cleaned, standardized, and enriched real estate data is then integrated into
 The system leverages SQLAlchemy and psycopg2 to establish and manage reliable connections to the PostgreSQL database, handling connection pooling and disposal for optimal performance.
 ## Guaranteed Data Integrity
 Comprehensive error handling and transaction management, including commit and rollback mechanisms, are implemented to ensure the consistency and integrity of all data loaded into the database.
+
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Data%20Loading%20in%20Postgres.png)
 
 

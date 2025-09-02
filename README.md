@@ -239,7 +239,7 @@ Dedicated dimension tables for Address, Property Location, Property Details, Off
 1. Dimension Tables First (`property_listings`)
 2. Fact Table Foundation
 3. Indexing for Performance
-```
+```sql
 ---## FACT AND DIMENSION TABLES FOR REAL ESTATE COMPANY 
 
 --- Dim Table (Address)

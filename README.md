@@ -226,6 +226,7 @@ Following successful data loading, our focus shifts to structuring the transform
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Real_Estate%20Data%20Modellin%20g-Page-1.drawio.png)
 
 # Fact and Dimension Tables for Real Estate Analytics
+To enable robust and flexible analytical capabilities for Zico Real Estate, we've implemented a star schema data model, separating core metrics from descriptive attributes into fact and dimension tables.
 ### Star Schema Design
 Optimized for analytical queries, the star schema simplifies data retrieval and enhances performance for reporting.
 ### Central Fact Table

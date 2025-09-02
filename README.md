@@ -20,20 +20,20 @@ This project is critical for Zipco Real Estate to overcome current data challeng
 ### Compromised Data Quality
 -The lack of a streamlined process results in inaccuracies and outdated information, impacting
 
-# Project Rationale
-### Enhanced Operational Efficiency
--Automates data processing, significantly reducing the time and effort required to gather, clean, and prepare data.
-### Improved Data Quality & Consistency
--Standardizes data formats and ensures accurate integration, leading to reliable, up-to-date information for informed decisions.
-### Timely Access to Critical Information
--Enables real-time access to vital property insights and market data, essential for rapid decision-making in a fast-paced environment.
-### Cost Reduction
--Minimizes manual data handling and errors, resulting in significant operational cost savings that can be reinvested into growth initiatives.
-### Enhanced Decision-Making
-Empowers management with accurate insights and analytics, enabling more strategic decisions and effective navigation of the real estate market.
+# 🏗️ Project Rationale – Zico Real Estate
+
+These rationale points highlight the core benefits of the project, driving efficiency, reliability, and better decision-making across operations.
+
+| 🌟 **Rationale** | **Description** |
+|------------------|---------------------|
+| **Enhanced Operational Efficiency** <br> Automates data processing. | Significantly reduces the time and effort required to gather, clean, and prepare data. |
+| **Improved Data Quality & Consistency** <br> Standardizes data formats. | Ensures accurate integration, leading to reliable, up-to-date information for informed decisions. |
+| **Timely Access to Critical Information** <br> Provides real-time property insights and market data. | Essential for rapid decision-making in a fast-paced environment. |
+| **Cost Reduction** <br> Minimizes manual data handling and errors. | Results in significant cost savings that can be reinvested into growth initiatives. |
+| **Enhanced Decision-Making** <br> Empowers management with insights and analytics. | Enables more strategic decisions and effective navigation of the real estate market. |
 
 
-# Strategic Objectives – Zico Real Estate
+# Strategic Objectives – Zipco Real Estate
 
 This project focuses on four strategic objectives, each vital for enhancing **data efficiency** and **reliability**, laying the groundwork for a more robust, data-driven operation.
 

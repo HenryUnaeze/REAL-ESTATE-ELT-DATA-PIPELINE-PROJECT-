@@ -45,6 +45,17 @@ Utilize a Python-based solution to efficiently fetch and retrieve property recor
 ## Optimized Database Loading
 Design an optimized process for efficiently inserting transformed data into the PostgreSQL database, ensuring data integrity.
 # Project Scope 
+# 📌 Project Scope – Defining Our Project Framework
+
+This project outlines a clear scope of work encompassing key technical and operational areas, with tangible deliverables designed to enhance **Zico Real Estate’s** data infrastructure and capabilities.
+
+| 🚀 **Project Scope** | 🎯 **Key Deliverables** |
+|----------------------|-------------------------|
+| **GitHub Integration** <br> Establish a robust GitHub repository for version control, code tracking, issue management, and seamless team collaboration throughout the project lifecycle. | **GitHub Repository** <br> A fully functional GitHub repository containing all project code, documentation, and a complete history of changes for transparency and future development. |
+| **ETL Automation** <br> Implement Windows Task Scheduler to automate all ETL processes (extraction, transformation, loading), ensuring routine and reliable updates. | **Automated ETL System** <br> A production-ready set of scripts and configurations for the automated ETL workflow, scheduled and managed via Windows Task Scheduler. |
+| **Data Modeling** <br> Design a scalable and efficient data model with optimized tables, relationships, and indexing to ensure high performance for data storage and querying. | **Optimized Data Model** <br> A clearly defined and documented data model in PostgreSQL, ensuring data integrity and efficient query performance. |
+| **Dashboard Creation** <br> Develop an interactive dashboard for visualizing KPIs and metrics, enabling dynamic data exploration and informed decision-making. | **Interactive Dashboard** <br> A user-friendly dashboard providing real-time visualizations and insights into property data and market trends. |
+
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Project%20Scope.png)
 # Analytical Insights
 ![alt text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Analytics%20Insight%20.png)

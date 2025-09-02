@@ -670,10 +670,8 @@ Focus on high-volume sales strategies and broad marketing outreach, emphasizing 
 | ----------- | ----------- |
 | Scottsdale |  Insight: The Premium Market  |
 | 1|  The Power BI dashboard provides critical insights, enabling our Sales and Marketing teams to develop targeted strategies and capitalize on market opportunities. Here's an executive summary of key takeaways:|
-| ----------- | ----------- |
 |Phoenix|Insight: Volume & Accessibility|
-|2|Insight: Phoenix leads in listing volume, offering broader market reach at comparatively lower maximum price points than Scottsdale. 
-Opportunity: Focus on high-volume sales strategies and broad marketing outreach, emphasizing accessibility and diverse property options.|
+|2|Insight: Phoenix leads in listing volume, offering broader market reach at comparatively lower maximum price points than Scottsdale. Opportunity: Focus on high-volume sales strategies and broad marketing outreach, emphasizing accessibility and diverse property options.|
 
 
 

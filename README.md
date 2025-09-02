@@ -19,7 +19,7 @@ This project is critical for Zipco Real Estate to overcome current data challeng
 >
 > **Compromised Data Quality**  
  
-# 🏗️ Project Rationale – Zico Real Estate
+# 🏗️ Project Rationale – Zipco Real Estate
 
 These rationale points highlight the core benefits of the project, driving efficiency, reliability, and better decision-making across operations.
 

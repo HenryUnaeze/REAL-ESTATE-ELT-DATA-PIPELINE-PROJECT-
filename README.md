@@ -32,18 +32,19 @@ This project is critical for Zipco Real Estate to overcome current data challeng
 ### Enhanced Decision-Making
 Empowers management with accurate insights and analytics, enabling more strategic decisions and effective navigation of the real estate market.
 
-# Strategic Project Objectives
 
-This project focuses on four strategic objectives, each vital for enhancing data efficiency and reliability at Zico Real Estate, laying the groundwork for a more robust and data-driven operation.
+# Strategic Objectives – Zico Real Estate
 
-## Automated ETL Pipeline
-Develop a scalable, automated ETL pipeline with built-in logging and monitoring for consistent data flow and performance tracking.
-## Data Cleaning & Transformation
-Implement robust cleaning and transformation procedures to ensure data accuracy, consistency, and readiness for analysis and reporting.
-## Efficient Data Extraction
-Utilize a Python-based solution to efficiently fetch and retrieve property records from the Real Estate API, minimizing delays.
-## Optimized Database Loading
-Design an optimized process for efficiently inserting transformed data into the PostgreSQL database, ensuring data integrity.
+This project focuses on four strategic objectives, each vital for enhancing **data efficiency** and **reliability**, laying the groundwork for a more robust, data-driven operation.
+
+|  **Objective** |  **Description** |
+|------------------|---------------------|
+| **Automated ETL Pipeline** <br> Develop a scalable, automated ETL pipeline with built-in logging and monitoring. | Ensures consistent data flow and enables performance tracking. |
+| **Data Cleaning & Transformation** <br> Implement robust cleaning and transformation procedures. | Guarantees data accuracy, consistency, and readiness for analysis and reporting. |
+| **Efficient Data Extraction** <br> Utilize a Python-based solution to fetch and retrieve property records from the Real Estate API. | Minimizes delays in data ingestion and improves efficiency. |
+| **Optimized Database Loading** <br> Design an optimized process for inserting transformed data into PostgreSQL. | Ensures integrity and reliability of stored data. |
+
+
 # Project Scope – Defining Our Project Framework
 
 This project outlines a clear scope of work encompassing key technical and operational areas, with tangible deliverables designed to enhance **Zico Real Estate’s** data infrastructure and capabilities.

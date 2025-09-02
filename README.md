@@ -208,15 +208,15 @@ conn.close()
 engine.dispose()
 ``` 
 # Secure Data Loading to PostgreSQL
-The final critical phase of our ETL pipeline focuses on securely and efficiently loading both the raw and transformed real estate data into the PostgreSQL database, making it immediately available for analysis and reporting.
-## Raw Data Archiving
-The initial, unprocessed data from the RentCast API is meticulously loaded into a dedicated `raw_listings` table, ensuring a complete and unaltered record for historical purposes and auditing.
-## Transformed Data Integration
-The cleaned, standardized, and enriched real estate data is then integrated into the `transformed_listings` table, optimized for direct consumption by Zico Real Estate's analytical platforms.
-## Robust Connection Management
-The system leverages SQLAlchemy and psycopg2 to establish and manage reliable connections to the PostgreSQL database, handling connection pooling and disposal for optimal performance.
-## Guaranteed Data Integrity
-Comprehensive error handling and transaction management, including commit and rollback mechanisms, are implemented to ensure the consistency and integrity of all data loaded into the database.
+# Data Pipeline Overview
+
+| Step                          | Description                                                                                                                                           |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Raw Data Archiving**        | The initial, unprocessed data from the **RentCast API** is loaded into a dedicated `raw_listings` table, ensuring a complete and unaltered record for historical purposes and auditing. |
+| **Transformed Data Integration** | The cleaned, standardized, and enriched real estate data is integrated into the `transformed_listings` table, optimized for direct use by Zico Real Estate's analytical platforms. |
+| **Robust Connection Management** | The system uses **SQLAlchemy** and **psycopg2** to establish and manage reliable connections to PostgreSQL, with connection pooling and disposal for optimal performance. |
+| **Guaranteed Data Integrity** | Data handling processes ensure consistency, accuracy, and reliability across all stages of the pipeline.                                             |
+
 
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Data%20Loading%20in%20Postgres.png)
 

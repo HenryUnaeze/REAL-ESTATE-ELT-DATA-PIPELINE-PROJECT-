@@ -666,10 +666,10 @@ Phoenix leads in listing volume, offering broader market reach at comparatively 
 ##### Opportunity: 
 Focus on high-volume sales strategies and broad marketing outreach, emphasizing accessibility and diverse property options.
 
-| Syntax | Marketing Recommendation |
+| 1 | Marketing Recommendation |
 | ----------- | ----------- |
 | Scottsdale: The Premium Market |  Insight: |
-| 1|  The Power BI dashboard provides critical insights, enabling our Sales and Marketing teams to develop targeted strategies and capitalize on market opportunities. Here's an executive summary of key takeaways:|
+| 4|  The Power BI dashboard provides critical insights, enabling our Sales and Marketing teams to develop targeted strategies and capitalize on market opportunities. Here's an executive summary of key takeaways:|
 
 
 

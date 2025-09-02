@@ -232,6 +232,7 @@ Optimized for analytical queries, the star schema simplifies data retrieval and 
 The `property_listings` fact table stores key metrics like price, status, and dates, with foreign keys linking to dimensions.
 ### Detailed Dimensions
 Dedicated dimension tables for Address, Property Location, Property Details, Office, and Agent provide rich descriptive context.
+![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Star%20Schema.png)
 
 
 

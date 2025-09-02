@@ -225,6 +225,15 @@ Following successful data loading, our focus shifts to structuring the transform
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Primary%20and%20Secondary.png)
 ![Alt Text](https://github.com/HenryUnaeze/REAL-ESTATE-ELT-DATA-PIPLINE-PROJECT-/blob/main/Real_Estate%20Data%20Modellin%20g-Page-1.drawio.png)
 
+# Fact and Dimension Tables for Real Estate Analytics
+### Star Schema Design
+Optimized for analytical queries, the star schema simplifies data retrieval and enhances performance for reporting.
+### Central Fact Table
+The `property_listings` fact table stores key metrics like price, status, and dates, with foreign keys linking to dimensions.
+### Detailed Dimensions
+Dedicated dimension tables for Address, Property Location, Property Details, Office, and Agent provide rich descriptive context.
+
+
 
 
 
